@@ -4,7 +4,7 @@ I'm Mav, Welcome to my profile!
 ## About me
 - 🎓 **Who I am:** Freshman at **University of Science and Technology of China (USTC, China)**
 - 🧠 **Current focus:** Getting started with **Neural Networks** and the fundamentals of **Deep Learning**
-- 🔭 **Next plans / ideas (From now to 2026.2.1):**
+- 🔭 **Next plans / ideas (From now to 2026.2.10):**
   - Learn CNN network and related things
   - Learn PyTorch well
 - 🛠️ **Languages:** **Python**, **C**

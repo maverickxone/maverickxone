@@ -7,7 +7,7 @@ Claude is wonderful!
 ## About me
 - 🎓 **Who I am:** Freshman at **University of Science and Technology of China (USTC, China)**
 - 🧠 **Current focus:** Getting started with **Neural Networks** and the fundamentals of **Deep Learning**
-- 🔭 **Next plans / ideas (From now to 2026.3.231):**
+- 🔭 **Next plans / ideas (From now to 2026.3.31):**
   - Study D2L | Progress: [▓░░░░░░░░░] 10% 
   - Learning Docker | Progress: [▓▓▓▓▓▓▓░░░] 70% 
   - Explore Other Things about Current AI.

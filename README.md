@@ -4,7 +4,7 @@ I'm Mav, Welcome to my profile!
 ## Recent Findings 
 Claude is wonderful!
 
-Recently using Kiro 😄
+Enjoying my Mac.
 
 ## About me
 - 🎓 **Who I am:** Freshman at **University of Science and Technology of China (USTC, China)**

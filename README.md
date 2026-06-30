@@ -6,8 +6,6 @@ This is my personal homepage: https://mav-ustc.dev
 
 ## Recent Findings 
 
-Claude is wonderful!
-
 Enjoying my MacBook Air.
 
 ## About me
